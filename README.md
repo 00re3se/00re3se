@@ -6,6 +6,10 @@
   My name is Christopher. I've been coding for the past 8 years, evolving from game scripting into a full-stack developer with a deep focus on system architecture, clean code, and user-centric design.
 </p>
 
+<h1 align="center">Contact me:</h1>
+
+<h3 align="center">Discord: 00re3se</h3>
+
 ---
 
 ### 🚀 About Me
