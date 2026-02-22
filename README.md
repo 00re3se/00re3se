@@ -14,16 +14,6 @@
 
 ---
 
-### 🚀 About Me
-
-I don't just write code. I build ecosystems. Whether it's a high-performance web app, a complex game world, or a cloud-native backend, I prioritize readability, scalability, and intentionality.
-
-* **Logic & Architecture**: I choose my tech stack based on the "why," not the "what." PostgreSQL for relational integrity or MongoDB for flexibility? I make those calls based on project requirements.
-* **Quality Obsession:** I have a zero-tolerance policy for messy code and broken layouts. If it's not clean, it's not finished.
-* **Versatility:** My experience spans from low-level game logic (Java/Lua) to modern web ecosystems (Next.js/AWS) and UI/UX design (Figma).
-
----
-
 ### ⚙️ Languages
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
