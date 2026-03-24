@@ -65,7 +65,3 @@
 </div>
 
 ---
-
-<p align="center">
-  <i>When I'm not coding, I'm probably thinking about how to make my existing projects more backwards-compatible or more respectful of the people using them.</i>
-</p>
